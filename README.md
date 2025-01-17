@@ -3,7 +3,7 @@
 A simple calculator built using **HTML, CSS, and JavaScript**, leveraging the **DOM** for interactivity. This project provides a functional, responsive, and aesthetically pleasing calculator interface.
 
 ## 🖥️ Live Demo
-[Click here to try the calculator](https://giovannirodriguezdev.github.io/calculator) *(Replace with the actual URL if hosted online.)*
+[Click here to try the calculator](https://giovannirodriguezdev.github.io/calculator)
 
 ---
 
